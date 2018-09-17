@@ -4,6 +4,8 @@ Basic CRUD App with Vue.js and Node
 
 > A Vue.js project
 
+![App](VueApp.png)
+
 ## Build Setup
 
 ``` bash
